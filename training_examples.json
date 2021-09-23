@@ -1,0 +1,11 @@
+{
+    "labels":["GREET","BYE","FELINE","CANINE"],
+    "labelled_sequences":[
+        [["how",null],["are",null],["you",null],["#","GREET"]],
+        [["thanks",null],["very",null],["much",null],["#","BYE"]],
+        [["cat","FELINE"]],
+        [["tiger","FELINE"]],
+        [["dog","CANINE"]],
+        [["wolf","CANINE"]]
+    ]
+}
